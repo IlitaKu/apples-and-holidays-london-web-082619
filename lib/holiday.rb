@@ -90,9 +90,10 @@ def all_holidays_with_bbq(holiday_hash)
   grill = []
 holiday_hash.each do |season, name|
 name.each do |hol, supplies|
-      
+      supplies.each do |supply|
+        
 
-    
+  end
   binding.pry
 end
 end
