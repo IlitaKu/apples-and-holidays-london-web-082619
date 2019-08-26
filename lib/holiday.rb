@@ -92,6 +92,7 @@ holiday_hash.each do |season, name|
 name.each do |hol, supplies|
       supplies.each do |supply|
         if supply == "BBQ"
+          grill << hol
       
         
  binding.pry
@@ -99,6 +100,7 @@ name.each do |hol, supplies|
  end
 end
 end
+grill
 end
 
 
