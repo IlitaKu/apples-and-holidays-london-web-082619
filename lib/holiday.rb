@@ -95,7 +95,7 @@ name.each do |hol, supplies|
           grill << hol
       
         
- binding.pry
+ #binding.pry
   end
  end
 end
