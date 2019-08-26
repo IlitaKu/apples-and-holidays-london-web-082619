@@ -90,10 +90,10 @@ def all_holidays_with_bbq(holiday_hash)
   grill = []
 holiday_hash.each do |season, name|
 name.each do |hol, supplies|
-  if name.map { |key,value| key[value] == "BBQ",key}    
+      
 
     
-  #binding.pry
+  binding.pry
 end
 end
 end
