@@ -96,7 +96,7 @@ name.each do |hol, supplies|
         
  binding.pry
   end
- 
+ end
 end
 end
 end
