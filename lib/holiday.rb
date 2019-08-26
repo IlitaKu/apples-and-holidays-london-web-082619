@@ -92,9 +92,9 @@ holiday_hash.each do |season, name|
 name.each do |hol, supplies|
       supplies.each do |supply|
         
-
+ binding.pry
   end
-  binding.pry
+ 
 end
 end
 end
