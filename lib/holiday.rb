@@ -97,7 +97,6 @@ name.each do |hol, supplies|
 end
 end
 end
-end
 
 
 
